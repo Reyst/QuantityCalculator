@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quantity Calculator</string>
+    <string name="str_outcome">Outcome</string>
+    <string name="str_income">Income</string>
+    <string name="str_percent_of_loss">Percent of loss</string>
+    <string name="str_precision">Precision</string>
+    <string name="unavailable_value">Unavailable value</string>
+    <string name="str_required">Required</string>
+</resources>
